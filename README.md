@@ -94,7 +94,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/xeyt5/xeyt5/output/snake.svg" alt="Snake animation" />
 
 ###
 
