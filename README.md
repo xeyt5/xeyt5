@@ -1,24 +1,103 @@
-# 💫 About Me:
-💻 Experiencia en Bases de Datos: A lo largo de mi carrera, he participado en diversos proyectos que requieren el manejo de bases de datos, tanto relacionales como no relacionales. Tengo una sólida comprensión y experiencia en el uso de sistemas de gestión de bases de datos como SQL, PostgreSQL y MongoDB. Esta experiencia me ha permitido diseñar y optimizar estructuras de datos complejas, garantizando el rendimiento y la integridad de la información en aplicaciones de diversa índole.<br><br>🐍 Programación con Python: Mi habilidad en programación con Python es uno de mis mayores activos, especialmente en el ámbito de la ciencia de datos y el desarrollo de aplicaciones web. He creado soluciones robustas y eficientes utilizando el framework Django, desde aplicaciones simples hasta sistemas integrados complejos. Además, he aplicado Python para realizar análisis de datos, automatización de procesos y la creación de modelos predictivos, siempre con un enfoque en la optimización y el rendimiento.<br><br>🖥️ Dominio de Sistemas Operativos: Aunque estoy familiarizado con Windows, mi verdadera especialización radica en el ecosistema Linux. He trabajado extensamente con diversas distribuciones de Linux, incluyendo Pop!_OS, Ubuntu, Kali Linux, y Debian. Mi experiencia con estos sistemas operativos no se limita a su uso básico, sino que abarca la administración avanzada, la configuración de entornos de desarrollo, y la resolución de problemas a nivel de sistema, lo que me permite maximizar la eficiencia en mis proyectos.<br><br>🌐 Conocimientos en Redes de Computación: Mi experiencia también abarca el ámbito de las redes de computación, donde he adquirido conocimientos sólidos en conmutación y enrutamiento. He trabajado en la configuración y administración de redes, asegurando la conectividad y seguridad de los sistemas que desarrollo. Esta competencia me permite entender y optimizar la comunicación entre diferentes componentes de una infraestructura tecnológica, mejorando así el rendimiento general de las aplicaciones y servicios.
+<h1 align="left">Hi 👋! My name is Joshua <br>I'm a software developer</h1>
 
+###
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/XJoshua05/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sm.joshua5/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/xexeyt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@xeyt3976) 
+<h3 align="left">💫 About Me:</h3>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xeyt5&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xeyt5&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xeyt5&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xeyt5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br clear="both">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=xeyt5&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
+<p align="left">💻 Experiencia en Bases de Datos: A lo largo de mi carrera, he participado en diversos proyectos que requieren el manejo de bases de datos, tanto relacionales como no relacionales. Tengo una sólida comprensión y experiencia en el uso de sistemas de gestión de bases de datos como SQL, PostgreSQL y MongoDB. Esta experiencia me ha permitido diseñar y optimizar estructuras de datos complejas, garantizando el rendimiento y la integridad de la información en aplicaciones de diversa índole.<br><br>🐍 Programación con Python: Mi habilidad en programación con Python es uno de mis mayores activos, especialmente en el ámbito de la ciencia de datos y el desarrollo de aplicaciones web. He creado soluciones robustas y eficientes utilizando el framework Django, desde aplicaciones simples hasta sistemas integrados complejos. Además, he aplicado Python para realizar análisis de datos, automatización de procesos y la creación de modelos predictivos, siempre con un enfoque en la optimización y el rendimiento.<br><br>🖥️ Dominio de Sistemas Operativos: Aunque estoy familiarizado con Windows, mi verdadera especialización radica en el ecosistema Linux. He trabajado extensamente con diversas distribuciones de Linux, incluyendo Pop!_OS, Ubuntu, Kali Linux, y Debian. Mi experiencia con estos sistemas operativos no se limita a su uso básico, sino que abarca la administración avanzada, la configuración de entornos de desarrollo, y la resolución de problemas a nivel de sistema, lo que me permite maximizar la eficiencia en mis proyectos.<br><br>🌐 Conocimientos en Redes de Computación: Mi experiencia también abarca el ámbito de las redes de computación, donde he adquirido conocimientos sólidos en conmutación y enrutamiento. He trabajado en la configuración y administración de redes, asegurando la conectividad y seguridad de los sistemas que desarrollo. Esta competencia me permite entender y optimizar la comunicación entre diferentes componentes de una infraestructura tecnológica, mejorando así el rendimiento general de las aplicaciones y servicios.</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=xeyt5&icon=9&color=12)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">📊 GitHub Stats:</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xeyt5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=xeyt5&locale=en&mode=daily&theme=omni&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xeyt5&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=xeyt5&theme=dark_lover&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<h3 align="left">💻 Tech Stack:</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+</div>
+
+###
+
+<img align="right" height="181" src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/xeyt5/xeyt5/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=xeyt5.xeyt5&left_color=blue&right_color=darkseagreen&left_text=vistas"  />
+
+###
