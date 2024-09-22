@@ -86,7 +86,7 @@
 
 ###
 
-<img align="right" height="181" src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"  />
+<img align="center" height="181" src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"  />
 
 ###
 
