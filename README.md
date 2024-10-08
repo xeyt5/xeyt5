@@ -117,8 +117,8 @@
 
 ## 💾Videos de YouTube
 <a href="https://www.youtube.com/shorts/QRZQ4WSITD4">
-  <img src="https://img.youtube.com/vi/QRZQ4WSITD4/maxresdefault.jpg" alt="Mi video de YouTube" width="334"; />
-  <img src="https://img.youtube.com/vi/GnWHfzcq4Ks/maxresdefault.jpg" alt="Personaliza tu github" width="334"; />
-  <img src="https://img.youtube.com/vi/Y2dAcqDIe_I/maxresdefault.jpg" alt="Personaliza tu github" width="334"; />
+  <img src="https://img.youtube.com/vi/QRZQ4WSITD4/maxresdefault.jpg" alt="Mi video de YouTube" width="310"; />
+  <img src="https://img.youtube.com/vi/GnWHfzcq4Ks/maxresdefault.jpg" alt="Personaliza tu github" width="310"; />
+  <img src="https://img.youtube.com/vi/Y2dAcqDIe_I/maxresdefault.jpg" alt="Personaliza tu github" width="310"; />
 </a>
 
