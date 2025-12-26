@@ -23,7 +23,54 @@
 
 ###
 
-<p align="left">💻 Experiencia en Bases de Datos: A lo largo de mi carrera, he participado en diversos proyectos que requieren el manejo de bases de datos, tanto relacionales como no relacionales. Tengo una sólida comprensión y experiencia en el uso de sistemas de gestión de bases de datos como SQL, PostgreSQL y MongoDB. Esta experiencia me ha permitido diseñar y optimizar estructuras de datos complejas, garantizando el rendimiento y la integridad de la información en aplicaciones de diversa índole.<br><br>🐍 Programación con Python: Mi habilidad en programación con Python es uno de mis mayores activos, especialmente en el ámbito de la ciencia de datos y el desarrollo de aplicaciones web. He creado soluciones robustas y eficientes utilizando el framework Django, desde aplicaciones simples hasta sistemas integrados complejos. Además, he aplicado Python para realizar análisis de datos, automatización de procesos y la creación de modelos predictivos, siempre con un enfoque en la optimización y el rendimiento.<br><br>🖥️ Dominio de Sistemas Operativos: Aunque estoy familiarizado con Windows, mi verdadera especialización radica en el ecosistema Linux. He trabajado extensamente con diversas distribuciones de Linux, incluyendo Pop!_OS, Ubuntu, Kali Linux, y Debian. Mi experiencia con estos sistemas operativos no se limita a su uso básico, sino que abarca la administración avanzada, la configuración de entornos de desarrollo, y la resolución de problemas a nivel de sistema, lo que me permite maximizar la eficiencia en mis proyectos.<br><br>🌐 Conocimientos en Redes de Computación: Mi experiencia también abarca el ámbito de las redes de computación, donde he adquirido conocimientos sólidos en conmutación y enrutamiento. He trabajado en la configuración y administración de redes, asegurando la conectividad y seguridad de los sistemas que desarrollo. Esta competencia me permite entender y optimizar la comunicación entre diferentes componentes de una infraestructura tecnológica, mejorando así el rendimiento general de las aplicaciones y servicios.</p>
+<p align="left">
+👋 Hola, soy joshua mejor conocido como xeyt
+
+Soy desarrollador de software, creador de contenido y entusiasta de la tecnología, con una **especialidad en Ciencia de Datos**. Me apasiona **Linux**, el **software libre** y crear soluciones tecnológicas prácticas tanto a nivel de código como de infraestructura.
+
+🎥 También creo contenido sobre tecnología y Linux, donde explico conceptos complejos de forma clara y directa: rendimiento, distros, herramientas, terminal y software libre.
+
+---
+
+### 🏛️ Ayuntamiento de Puente de Ixtla
+**Desarrollador de software (posición actual)**
+- Desarrollo de aplicaciones con **Python**
+- Mantenimiento y soporte al **área de redes**
+- Desarrollo y mantenimiento del sitio web institucional usando **React** y **Django**
+- Apoyo en mejoras tecnológicas y soluciones internas
+
+## 💻 Experiencia
+
+### 🧑‍💻 Desarrollador Freelance
+He trabajado en diversos proyectos web desarrollando aplicaciones modernas utilizando:
+- **Angular**
+- **Django**
+- **Tailwind CSS**
+- **PostgreSQL**
+
+Enfocado en crear soluciones escalables, funcionales y bien estructuradas.
+
+### 🎓 Universidad Nacional Autónoma de México (UNAM)
+**Desarrollador de software**
+- Desarrollo de aplicaciones con **Django**
+- Configuración y despliegue usando **Nginx**
+- Participación en sistemas internos enfocados a la gestión y automatización
+
+---
+
+## 🧠 Intereses y enfoque
+- Ciencia de Datos y análisis de información
+- Linux y sistemas operativos de código abierto (usuario de **Arch Linux**)
+- Desarrollo web moderno (Backend & Frontend)
+- Automatización, rendimiento y buenas prácticas
+
+---
+
+🚀 En este GitHub encontrarás proyectos personales, profesionales y código relacionado con aplicaciones reales, pruebas, aprendizaje y contenido educativo.
+
+Gracias por darte una vuelta 👋
+
+</p>
 
 ###
 <h3 align="left">💻 Tech Stack:</h3>
@@ -88,10 +135,10 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 ###
-
+ <br> <br> <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=xeyt5&locale=en&mode=daily&theme=omni&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xeyt5&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
+  <br> <br> <br>
 
   ![](https://github-contributor-stats.vercel.app/api?username=xeyt5&limit=5&theme=dracula&combine_all_yearly_contributions=true)
   
@@ -100,10 +147,6 @@
 </div>
 
 
-
-###
-<img align="right" height="150" src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"  />
-<img src="https://raw.githubusercontent.com/xeyt5/xeyt5/output/snake.svg" alt="Snake animation" />
 
 
 ###
@@ -117,8 +160,8 @@
 
 ## 💾Videos de YouTube
 <a href="https://www.youtube.com/shorts/QRZQ4WSITD4">
-  <img src="https://img.youtube.com/vi/QRZQ4WSITD4/maxresdefault.jpg" alt="Mi video de YouTube" width="310"; />
-  <img src="https://img.youtube.com/vi/GnWHfzcq4Ks/maxresdefault.jpg" alt="Personaliza tu github" width="310"; />
-  <img src="https://img.youtube.com/vi/Y2dAcqDIe_I/maxresdefault.jpg" alt="Personaliza tu github" width="310"; />
+  <img src="https://img.youtube.com/vi/eHnJi39TOYE/maxresdefault.jpg" alt="Mi video de YouTube"; />
+  <img src="https://img.youtube.com/vi/oC4aE2Qc5tE/maxresdefault.jpg" alt="Personaliza tu github"; />
+  <img src="https://img.youtube.com/vi/EaMvGe8Nqzs/maxresdefault.jpg" alt="Personaliza tu github" ; />
 </a>
 
