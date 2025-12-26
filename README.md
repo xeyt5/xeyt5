@@ -32,14 +32,14 @@ Soy desarrollador de software, creador de contenido y entusiasta de la tecnolog�
 
 ---
 
+## 💻 Experiencia
+
 ### 🏛️ Ayuntamiento de Puente de Ixtla
 **Desarrollador de software (posición actual)**
 - Desarrollo de aplicaciones con **Python**
 - Mantenimiento y soporte al **área de redes**
 - Desarrollo y mantenimiento del sitio web institucional usando **React** y **Django**
 - Apoyo en mejoras tecnológicas y soluciones internas
-
-## 💻 Experiencia
 
 ### 🧑‍💻 Desarrollador Freelance
 He trabajado en diversos proyectos web desarrollando aplicaciones modernas utilizando:
