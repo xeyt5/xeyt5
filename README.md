@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Joshua and welcome to my github!!!</h2>
+<h1 align="center">Hi 👋! My name is Joshua and I'm software development</h1>
 
 ###
 
-<h3 align="left">🖥️I'm a computer systems engineer</h3>
+<h3 align="center">I'm a computer systems engineer adn youtuber</h3>
 
 ###
 
@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/xexeyt5/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.youtube.com/@xeyt3976" target="_blank">
+  <a href="https://www.youtube.com/@xxeyt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/joshua_salgado.m/" target="_blank">
@@ -26,22 +26,22 @@
 <p align="left">
 👋 Hola, soy joshua mejor conocido como xeyt
 
-Soy desarrollador de software, creador de contenido y entusiasta de la tecnología, con una **especialidad en Ciencia de Datos**. Me apasiona **Linux**, el **software libre** y crear soluciones tecnológicas prácticas tanto a nivel de código como de infraestructura.
+Soy desarrollador de software, creador de contenido y entusiasta de la tecnología. Me apasiona **Linux**, el **software libre** y crear soluciones tecnológicas prácticas tanto a nivel de código como de infraestructura.
 
-🎥 También creo contenido sobre tecnología y Linux, donde explico conceptos complejos de forma clara y directa: rendimiento, distros, herramientas, terminal y software libre.
+También creo contenido sobre tecnología y Linux, donde explico conceptos complejos de forma clara y directa: rendimiento, distros, herramientas, terminal y software libre.
 
 ---
 
-## 💻 Experiencia
+## Experiencia
 
-### 🏛️ Ayuntamiento de Puente de Ixtla
-**Desarrollador de software (posición actual)**
+### Ayuntamiento
+**Desarrollador de software**
 - Desarrollo de aplicaciones con **Python**
 - Mantenimiento y soporte al **área de redes**
 - Desarrollo y mantenimiento del sitio web institucional usando **React** y **Django**
 - Apoyo en mejoras tecnológicas y soluciones internas
 
-### 🧑‍💻 Desarrollador Freelance
+### Desarrollador Freelance
 He trabajado en diversos proyectos web desarrollando aplicaciones modernas utilizando:
 - **Angular**
 - **Django**
@@ -50,7 +50,7 @@ He trabajado en diversos proyectos web desarrollando aplicaciones modernas utili
 
 Enfocado en crear soluciones escalables, funcionales y bien estructuradas.
 
-### 🎓 Universidad Nacional Autónoma de México (UNAM)
+### Universidad Nacional Autónoma de México (UNAM)
 **Desarrollador de software**
 - Desarrollo de aplicaciones con **Django**
 - Configuración y despliegue usando **Nginx**
@@ -58,7 +58,7 @@ Enfocado en crear soluciones escalables, funcionales y bien estructuradas.
 
 ---
 
-## 🧠 Intereses y enfoque
+## Intereses y enfoque
 - Ciencia de Datos y análisis de información
 - Linux y sistemas operativos de código abierto (usuario de **Arch Linux**)
 - Desarrollo web moderno (Backend & Frontend)
@@ -66,19 +66,19 @@ Enfocado en crear soluciones escalables, funcionales y bien estructuradas.
 
 ---
 
-🚀 En este GitHub encontrarás proyectos personales, profesionales y código relacionado con aplicaciones reales, pruebas, aprendizaje y contenido educativo.
+En este GitHub encontrarás proyectos personales, profesionales y código relacionado con aplicaciones reales, pruebas, aprendizaje y contenido educativo.
 
 Gracias por darte una vuelta 👋
 
 </p>
 
 ###
-<h3 align="left">💻 Tech Stack:</h3>
+<h3 align="left">Tech Stack:</h3>
 
 
-<div>
+<div aling="center">
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,arch,python,django,react,angular,js,html,css,tailwind,postgres,mysql,mongodb,nginx,git,docker,aws,github,vim" />
+  <img aling="center" src="https://skillicons.dev/icons?i=linux,bash,arch,python,django,react,angular,js,html,css,tailwind,postgres,mysql,mongodb,nginx,git,docker,aws,github,vim" />
 </p>
 </div>
 
